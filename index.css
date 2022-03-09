@@ -1,0 +1,65 @@
+html {
+    font-size: 62.5%;
+  }
+  
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+        height: 100%;
+    }
+    
+  .mainbox{
+      width: 100%;
+      height: 60rem;
+      border: 1rem solid black;
+      display: flex;
+
+  }
+  .yellowbox{
+      width: 50rem;
+      height: 50rem;
+      border: 1rem solid black;
+      background-color: yellow;
+      display: flex;
+      margin: 1rem;
+  }
+
+  .brownbox{
+      width: 20rem;
+      height: 40rem;
+      background-color: brown;
+      margin: 2rem;
+  }
+  .greenbox{
+      width: 10rem;
+      height: 10rem;
+      background-color: green;
+      margin: 1rem;
+    }
+    .bluebox{
+        width: 10rem;
+        height: 10rem;
+        background-color: blue;
+        margin: 1rem;
+  }
+
+  .yellowbox2{
+    width: 50rem;
+    height: 50rem;
+    border: 1rem solid black;
+    background-color: yellow;
+    /* display: flex; */
+    margin: 1rem;
+  }
+
+  .brownbox2{
+    width: 40rem;
+    height: 20rem;
+    background-color: brown;
+    margin: 2rem;
+    display: flex;
+  }
